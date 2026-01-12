@@ -13,5 +13,6 @@ You are generating a project summary using a multi-step prompt chain.
     - Mirror the step filename: `1-analyze-structure.md` → `{output_folder}/1-structure.md`
 
 Stop ONLY when:
-- All steps are complete
-- A full `{final_output_file}` is generated
+
+-   All steps are complete
+-   A full `{final_output_file}` is generated
