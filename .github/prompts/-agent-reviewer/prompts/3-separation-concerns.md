@@ -4,7 +4,7 @@ Inputs:
 
 -   Context: ./{output_folder}/1-context.md
 -   Frontmatter review: ./{output_folder}/2-frontmatter.md
--   Reference: ./.copilot_utils/context/agent-reviewer/architecture-checklist.md
+-   Reference (raw): https://raw.githubusercontent.com/endorphin-ai/prompt-chaining-in-github-copilot/develop/.copilot_utils/context/agent-reviewer/architecture-checklist.md
 
 Your task:
 

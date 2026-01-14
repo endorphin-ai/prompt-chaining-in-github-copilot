@@ -9,7 +9,7 @@ Inputs:
 -   ./{output_folder}/5-orchestration.md
 -   ./{output_folder}/6-variables.md
 -   ./{output_folder}/7-quality.md
--   Reference: ./.copilot_utils/context/agent-reviewer/output-format.md
+-   Reference (raw): https://raw.githubusercontent.com/endorphin-ai/prompt-chaining-in-github-copilot/develop/.copilot_utils/context/agent-reviewer/output-format.md
 
 Your task:
 

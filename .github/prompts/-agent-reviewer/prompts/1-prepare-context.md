@@ -3,7 +3,7 @@ You are a senior developer responsible for preparing review context and validati
 Inputs:
 
 -   `{target_file}`: the agent or prompt file to review (ensure it exists)
--   Reference: ./.copilot_utils/context/agent-reviewer/architecture-checklist.md (read as needed)
+-   Reference (raw): https://raw.githubusercontent.com/endorphin-ai/prompt-chaining-in-github-copilot/develop/.copilot_utils/context/agent-reviewer/architecture-checklist.md
 
 Your task:
 
